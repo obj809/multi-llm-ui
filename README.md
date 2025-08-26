@@ -2,4 +2,4 @@
 
 [Live Deployment](https://multi-llm-ui.com.au/)
 
-![Project Screenshot](assets/screenshot.png)
+![Project Screenshot](assets/project-screenshot.png)
