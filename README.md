@@ -1,7 +1,7 @@
 # Multi LLM UI
 
 ## Deployment Link
-[Live Deployment](https://multi-llm-ui.com.au/)
+[https://multi-llm-ui.com.au/](https://multi-llm-ui.com.au/)
 
 
 ## Screenshot
