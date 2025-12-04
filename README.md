@@ -3,7 +3,7 @@
 ## Deployment Link
 [Live Deployment](https://multi-llm-ui.com.au/)
 
-## Project Summary
+## Summary
 
 This project sets up a server that hosts several AI tools running inside Docker containers.
 
