@@ -5,9 +5,9 @@
 
 ## Summary
 
-This project sets up a server that hosts several AI tools running inside Docker containers.
+This project runs a server that hosts several AI tools running inside Docker containers.
 
-The OpenWebUI provides a chat interface, where different LLMs can be hosted.
+OpenWebUI provides a chat interface, where different LLMs can be hosted.
 
 Ollama is bundled into the OpenWebUI container, which then runs a variety of local models within that container (Llama, DeepSeek, Gemma, CodeLlama, TinyLlama).
 
