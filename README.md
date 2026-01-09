@@ -20,11 +20,11 @@ A primary objective was to provide a modern interface for future LLM experimenta
 
 ## Models
 
-Cloud Based:
+**Cloud Based:**
 
 Claude Opus 4.1, Claude Sonnet 4, Gemini 2.5 Pro, Gemini 2.5 Flash, GPT-5
 
-Ollama Based:
+**Ollama Based:**
 
 Llama 3.1 (latest), TinyLLaMA 1.1B, Gemma 3 4B, CodeLLaMA 7B, DeepSeek R1 8B
 
