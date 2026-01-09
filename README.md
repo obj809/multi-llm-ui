@@ -18,7 +18,7 @@ A primary objective was to provide a modern interface for future LLM experimenta
 ## Screenshot
 ![Project Screenshot](assets/project-screenshot.png)
 
-## Links
+## References
 
 [Ollama Model Library](https://ollama.com/library)
 
