@@ -1,7 +1,9 @@
 # Multi LLM UI
 
 ## Deployment Link
-[Live Deployment](https://multi-llm-ui.com.au/)
+<a href="https://multi-llm-ui.com.au/" target="_blank" rel="noopener noreferrer">
+  Live Deployment
+</a>
 
 ## Summary
 
