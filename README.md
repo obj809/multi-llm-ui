@@ -3,6 +3,11 @@
 ## Deployment Link
 [Live Deployment](https://multi-llm-ui.com.au/)
 
+## Login
+
+Email: guest@yourdomain.com
+Password: 60jIR8Y48ZgAqeq
+
 ## Summary
 
 This project runs a server that hosts several AI tools running inside Docker containers.
