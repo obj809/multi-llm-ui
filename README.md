@@ -5,8 +5,9 @@
 
 ## Login
 
-Email: guest@yourdomain.com
-Password: 60jIR8Y48ZgAqeq
+- Email: guest@yourdomain.com
+
+- Password: 60jIR8Y48ZgAqeq
 
 ## Summary
 
