@@ -30,11 +30,11 @@ A primary objective was to provide a modern interface for future LLM experimenta
 
 **Project Models:**
 
-[Pending...]
+- [Pending...]
 
 **Ollama Based:**
 
-Llama 3.1 (latest), TinyLLaMA 1.1B, Gemma 3 4B, CodeLLaMA 7B, DeepSeek R1 8B
+- Llama 3.1 (latest), TinyLLaMA 1.1B, Gemma 3 4B, CodeLLaMA 7B, DeepSeek R1 8B
 
 ## References
 
