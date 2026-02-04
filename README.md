@@ -3,11 +3,13 @@
 ## Deployment Link
 [Live Deployment](https://multi-llm-ui.com.au/)
 
-## Guest Login
+## Create an Account
 
-- Email: guest@yourdomain.com
+To use the hosted models, open the app and select **Sign up** on the login page.
+> Note: The signup email does not need to be a real email address.
 
-- Password: 60jIR8Y48ZgAqeq
+After creating your account, sign in and you can access the available OpenWebUI and LiteLLM-backed models.
+
 
 ## Summary
 
@@ -26,9 +28,9 @@ A primary objective was to provide a modern interface for future LLM experimenta
 
 ## Models Hosted
 
-**Cloud Based:**
+**Project Models:**
 
-Claude Opus 4.1, Claude Sonnet 4, Gemini 2.5 Pro, Gemini 2.5 Flash, GPT-5
+
 
 **Ollama Based:**
 
@@ -41,4 +43,3 @@ Llama 3.1 (latest), TinyLLaMA 1.1B, Gemma 3 4B, CodeLLaMA 7B, DeepSeek R1 8B
 [Open WebUI on GitHub](https://github.com/open-webui/open-webui)
 
 [LiteLLM on GitHub](https://github.com/BerriAI/litellm)
-
