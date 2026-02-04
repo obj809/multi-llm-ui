@@ -6,7 +6,8 @@
 ## Create an Account
 
 To use the hosted models, open the app and select **Sign up** on the login page.
-> Note: The signup email does not need to be a real email address.
+
+Note: The signup email does not need to be a real email address.
 
 After creating your account, sign in and you can access the available OpenWebUI and LiteLLM-backed models.
 
